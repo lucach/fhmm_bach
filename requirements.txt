@@ -1,0 +1,5 @@
+scipy
+numpy
+music21
+hmmlearn
+dash<1.0.0
